@@ -1,0 +1,29 @@
+_repo: Lost-in-the-Backwoods--A-Tale-of-the-Canadian-Forest_6813
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Traill, Catharine Parr Strickland
+    aliases:
+    - Traill, Mrs.
+    - Traill, Catherine Parr
+    birthdate: 1802
+    deathdate: 1899
+    gutenberg_agent_id: '2715'
+    url: http://www.gutenberg.org/2009/agents/2715
+    wikipedia: http://en.wikipedia.org/wiki/Catharine_Parr_Traill
+description: 'Original title: Canadian Crusoes'
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Ontario -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Ontario -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Lost in the Backwoods: A Tale of the Canadian Forest'
+url: http://www.gutenberg.org/ebooks/6813
